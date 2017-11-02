@@ -1,4 +1,4 @@
-package im.wangchao.rxpermissions;
+package im.wangchao.rxpermissionssample;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

@@ -1,4 +1,4 @@
-package im.wangchao.rxpermissions;
+package im.wangchao.rxpermissionssample;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
