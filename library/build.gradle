@@ -39,3 +39,5 @@ dependencies {
     compileOnly 'com.android.support:appcompat-v7:26.1.0'
     compileOnly 'io.reactivex.rxjava2:rxjava:2.1.2'
 }
+
+apply from: 'https://raw.githubusercontent.com/motcwang/Utils/master/bintray-publish/bintray.gradle'
